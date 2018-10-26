@@ -5,4 +5,4 @@
 
 -----------------------------------
 
-[OpenCV]01.OpenCV 시작하기 => (https://goo.gl/hCqZA2)
+[C]01.C 시작하기 => (https://goo.gl/85sDpf)
